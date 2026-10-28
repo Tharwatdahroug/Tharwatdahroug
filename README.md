@@ -9,7 +9,7 @@
 
 - 🏦 Currently building Fintech trading apps at **KnowledgeNet**, serving clients across the UAE and Saudi Arabia
 
-- 🌐 My Website <https://tharwatdahroug.web.app/>
+- 🌐 My Website <https://tharwatdahroug.github.io>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Tharwatdahroug](https://tharwatdahroug.github.io)
 
