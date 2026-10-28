@@ -11,7 +11,7 @@
 
 - 🌐 My Website <https://tharwatdahroug.web.app/>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Tharwatdahroug](https://github.com/Tharwatdahroug)
+- 👨‍💻 All of my projects are available at [https://github.com/Tharwatdahroug](https://tharwatdahroug.github.io)
 
 - 💬 Ask me about **Flutter, Dart, Clean Architecture, BLoC/Cubit, Mobile Security (GuardSquare/DexGuard/IxGuard), Fintech & Trading Systems**
 
